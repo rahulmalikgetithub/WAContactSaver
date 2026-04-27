@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WA Contact Saver</string>
+    <string name="accessibility_service_label">WA Contact Saver Scanner</string>
+    <string name="accessibility_service_description">
+        Scans your WhatsApp Business chat list (including archived chats) to detect
+        unsaved phone numbers, then saves them to your Contacts with a customisable
+        naming series. This service only reads WhatsApp Business screen content and
+        never transmits any data.
+    </string>
+</resources>
